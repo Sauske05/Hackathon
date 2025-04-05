@@ -1,0 +1,7 @@
+.qodo
+.venv
+.env
+./Phising_Mail_Detection/credentials
+./Phising_Mail_Detection/token
+./Phising_Mail_Detection/instructions
+
